@@ -8,6 +8,6 @@ You can also reset the time by clicking on the textbox provided inside the circl
 
 ## View Live App at
 
-<a href="https://arokianivin09.github.io/Timer/">:octocat: Timer App :octocat:</a>
+<a href="https://arokia-nivin.github.io/timer-app/">:octocat: Timer App :octocat:</a>
 
  
